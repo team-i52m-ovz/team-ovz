@@ -9,3 +9,7 @@ SystemRat's server also collects statistics about all the machines.
 
 For network connection between client and srver java will be used. Main system calls will be made by C++ dll.
 All system info will be collected by C++, passed in JSON to java via network to server. All collected info on server will be analyzed by the other dll.
+
+
+# Database
+Database diagram represent general table structure and does not contain all the fields definition
